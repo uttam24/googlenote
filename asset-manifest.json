@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/googlenote/static/css/main.582d25cb.chunk.css",
+    "main.js": "/googlenote/static/js/main.302e36b6.chunk.js",
+    "main.js.map": "/googlenote/static/js/main.302e36b6.chunk.js.map",
+    "runtime-main.js": "/googlenote/static/js/runtime-main.ba885dc1.js",
+    "runtime-main.js.map": "/googlenote/static/js/runtime-main.ba885dc1.js.map",
+    "static/js/2.b548f80d.chunk.js": "/googlenote/static/js/2.b548f80d.chunk.js",
+    "static/js/2.b548f80d.chunk.js.map": "/googlenote/static/js/2.b548f80d.chunk.js.map",
+    "static/js/3.a19045d6.chunk.js": "/googlenote/static/js/3.a19045d6.chunk.js",
+    "static/js/3.a19045d6.chunk.js.map": "/googlenote/static/js/3.a19045d6.chunk.js.map",
+    "index.html": "/googlenote/index.html",
+    "static/css/main.582d25cb.chunk.css.map": "/googlenote/static/css/main.582d25cb.chunk.css.map",
+    "static/js/2.b548f80d.chunk.js.LICENSE.txt": "/googlenote/static/js/2.b548f80d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba885dc1.js",
+    "static/js/2.b548f80d.chunk.js",
+    "static/css/main.582d25cb.chunk.css",
+    "static/js/main.302e36b6.chunk.js"
+  ]
+}
